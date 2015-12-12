@@ -1,8 +1,9 @@
 /*
  * %FFILE%
- * Copyright (C) %YEAR% %USER% <%MAIL%>
  *
- * Distributed under terms of the %LICENSE% license.
+ * Created by %USER%(%MAIL%) on %DATE%
+ * Copyright (C) %YEAR% %USER%. All rights reserved.
+ *
  */
 
 #include "%FILE%.h"

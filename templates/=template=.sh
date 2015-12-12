@@ -1,9 +1,9 @@
 #! /bin/sh
 #
 # %FFILE%
-# Copyright (C) %YEAR% %USER% <%MAIL%>
-#
-# Distributed under terms of the %LICENSE% license.
+# 
+# Created by %USER% on %DATE%.
+# Copyright (C) %YEAR% %USER% <%MAIL%>. All rights reserved.
 #
 
 

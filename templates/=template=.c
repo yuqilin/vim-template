@@ -1,8 +1,8 @@
 /*
  * %FFILE%
  *
- * Created by %USER%(%MAIL%) on %DATE%
- * Copyright (C) %YEAR% %USER%. All rights reserved.
+ * Created by %USER% on %DATE%.
+ * Copyright (C) %YEAR% %USER% <%MAIL%>. All rights reserved.
  *
  */
 

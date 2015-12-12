@@ -1,7 +1,8 @@
 /*
  * %FFILE%
- * Copyright (C) %YEAR% %USER% <%MAIL%>
+ * 
+ * Created by %USER% on %DATE%.
+ * Copyright (C) %YEAR% %USER% <%MAIL%>. All rights reserved.
  *
- * Distributed under terms of the %LICENSE% license.
  */
 %HERE%

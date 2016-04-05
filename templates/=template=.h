@@ -12,3 +12,4 @@
 %HERE%
 
 #endif /* !%GUARD% */
+
